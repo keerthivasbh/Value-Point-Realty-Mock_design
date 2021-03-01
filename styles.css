@@ -1,0 +1,73 @@
+body{
+  background-color: #f4f9f9;
+}
+
+#valuepointLogo{
+  height: 120px;
+  width: 400px;
+  margin-top: 20px;
+  margin-left: 560px;
+}
+
+.container-fluid{
+  margin-left: 530px;
+}
+
+.nav-item{
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+#MarinaBeachImage{
+  height: 800px;
+  width: 80%;
+}
+
+.intro_{
+text-align: center;
+margin-left: 250px;
+margin-right: 250px;
+}
+
+#card{
+  width: 852px;
+}
+
+.services_{
+  text-align: center;
+  margin-top: 100px;
+}
+
+.card_services{
+  display: inline-block;
+  margin: 20px;
+}
+
+.card_services_container{
+  text-align: center;
+  padding: 30px;
+}
+
+.card-body{
+  text-align: left;
+}
+
+.sers{
+  margin-bottom:
+}
+
+.OurTeam{
+  display: inline-block;
+}
+
+.FP{
+  display: inline-block;
+}
+
+.contactform1{
+  display: inline-block;
+}
+
+.contactform2{
+  display: inline-block;
+}
